@@ -68,3 +68,7 @@ Append lines to `render_stuff.cpp` to:
 ## TASK `1_3-Y`
  - `render_stuff.cpp: 116`
  - `data.h: 155, 165`
+
+# Issues
+
+In case of any issues, please create an issue or contact me on <sebelji1@fit.cvut.cz>.
